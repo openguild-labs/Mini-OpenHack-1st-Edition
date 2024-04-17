@@ -39,13 +39,13 @@ Provide the overall agenda of the hackathon here
 
 ## Tracks
 
-| Track Number | Track Name | Description | Grant & Bounty | Track Owner | Max number of winners |
-| ------------- | ------ | ------ | ------------- | ------------- | -------- |
-| #1 | Develop a new Substrate runtime modules ([Pallets](https://docs.substrate.io/reference/frame-pallets/) or [ORML](https://github.com/open-web3-stack/open-runtime-module-library)) | Write a new module that help to diversify the ecosystem of Substrate pallets. Reference: [pallet-evm](https://github.com/chainx-org/chainx-technical-archive/blob/main/WangYaFei/evm/pallet-evm:An%20implementation%20of%20evm%20in%20substrate.md), [pallet-broker](https://crates.io/crates/pallet-broker), [pallet-nft](https://github.com/danforbes/pallet-nft) | --- | OpenGuild Labs | Unlimited |
-| #2 | Port Ethereum Standard to Polkadot ink! | Write the Ethereum contract standard in ink!, learn more at [OpenBrush Contracts](https://github.com/Brushfam/openbrush-contracts/tree/main/contracts). For example, **PSP20** is the ink! version of **ERC20** | --- | OpenGuild Labs | Unlimited |
-| #3 | Write a new interactive tutorial for Polkadot development. | Educational content that helps other people to learn about the Polkadot technology. Learn more from [Rust State Machine](https://github.com/shawntabrizi/rust-state-machine), [Substrate Kitties](https://github.com/openguild-labs/substrate-kitties). | OpenGuild Labs | Unlimited |
-| #4 | Light clients & Sidecar | Build any applications using the Polkadot light Clients ([smoldot](https://github.com/smol-dot/smoldot) for Rust, [subtrate-connect](https://github.com/paritytech/substrate-connect) for Typescript) and [Substrate Sidecar API](https://github.com/paritytech/substrate-api-sidecar) | --- | OpenGuild Labs | Unlimited |
-| #5 | Developer tools & libraries for Substrate | Build developer tools and libraries that support the Substrate development. Reference: [openguild-labs/polkadot-rs](https://github.com/openguild-labs/polkadot-rs), [paritytech/asset-transfer-api](https://github.com/paritytech/asset-transfer-api) | --- | OpenGuild Labs | Unlimited |
+| Track Number | Track Name | Description |
+| ------------- | ------ | ------ |
+| #1 | Develop a new Substrate runtime modules ([Pallets](https://docs.substrate.io/reference/frame-pallets/) or [ORML](https://github.com/open-web3-stack/open-runtime-module-library)) | Write a new module that help to diversify the ecosystem of Substrate pallets. Reference: [pallet-evm](https://github.com/chainx-org/chainx-technical-archive/blob/main/WangYaFei/evm/pallet-evm:An%20implementation%20of%20evm%20in%20substrate.md), [pallet-broker](https://crates.io/crates/pallet-broker), [pallet-nft](https://github.com/danforbes/pallet-nft) |
+| #2 | Port Ethereum Standard to Polkadot ink! | Write the Ethereum contract standard in ink!, learn more at [OpenBrush Contracts](https://github.com/Brushfam/openbrush-contracts/tree/main/contracts). For example, **PSP20** is the ink! version of **ERC20** | 
+| #3 | Write a new interactive tutorial for Polkadot development. | Educational content that helps other people to learn about the Polkadot technology. Learn more from [Rust State Machine](https://github.com/shawntabrizi/rust-state-machine), [Substrate Kitties](https://github.com/openguild-labs/substrate-kitties). |
+| #4 | Light clients & Sidecar | Build any applications using the Polkadot light Clients ([smoldot](https://github.com/smol-dot/smoldot) for Rust, [subtrate-connect](https://github.com/paritytech/substrate-connect) for Typescript) and [Substrate Sidecar API](https://github.com/paritytech/substrate-api-sidecar) |
+| #5 | Developer tools & libraries for Substrate | Build developer tools and libraries that support the Substrate development. Reference: [openguild-labs/polkadot-rs](https://github.com/openguild-labs/polkadot-rs), [paritytech/asset-transfer-api](https://github.com/paritytech/asset-transfer-api) | 
 
 ## Submission Guidelines
 
