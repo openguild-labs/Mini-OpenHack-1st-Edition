@@ -1,3 +1,5 @@
+Repositoriy is made by the **OpenGuild Labs** to for covering the information related to the hackathon and storing the record of the hackathon participant. Mini OpenHack is a series of monthly hackathons hosted by the OpenGuild Labs for finding the hidden gem project team in the Polkadot ecosystem. 
+
 ## General Information
 <!-- Replace `---` with the hackathon information -->
 | Field name | Description | Field value |
@@ -12,6 +14,21 @@
 | End date | When the hackathon ends | --- |
 | Type | `Ideathon` / `Project-based` | Project-based |
 | Participants | Number of expected participants | --- |
+
+## Learn more about OpenGuild
+
+- **About us:** [Learn more about us](https://openguild.wtf/about)
+- **Website:** [OpenGuild Website](https://openguild.wtf/)
+- **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
+- **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
+
+## 📅 Dates
+- Launch Event: N/A
+- Challenges go live: N/A
+- Register by: You are welcome to join our hackathon any time before the end (qualified submissions will be accepted even without registration)
+- Duration: 2 weeks
+- End: Sunday N/A 2024
+- Prize distribution period: up to one weeks after Finale and Prizegiving
 
 ## Description
 
