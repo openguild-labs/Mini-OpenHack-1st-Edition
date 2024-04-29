@@ -3,14 +3,14 @@
 | Field name | Description | Field value |
 | ------------- | ------ | ------------- |
 | Title | Official name of the hackathon | Mini Hackathon #1 |
-| 💰 Total Bounty | How much you can earn from this hackathon? | 500$ |
+| 💰 Total Bounty | How much you can earn from this hackathon? | 1000$ |
 | Organizer | Name of the organizer | OpenGuild Labs |
 | Partners | Are there any external partners? | N/A |
 | Number of tracks | List of hacking tracks | --- |
 | Description | Brief summary of the hackathon purpose | --- |
 | Start date | When the hackathon begins | --- |
 | End date | When the hackathon ends | --- |
-| Type | `Ideathon` / `Project-based` | --- |
+| Type | `Ideathon` / `Project-based` | Project-based |
 | Participants | Number of expected participants | --- |
 
 ## Description
@@ -46,6 +46,8 @@ Provide the overall agenda of the hackathon here
 | #3 | Write a new interactive tutorial for Polkadot development. | Educational content that helps other people to learn about the Polkadot technology. Learn more from [Rust State Machine](https://github.com/shawntabrizi/rust-state-machine), [Substrate Kitties](https://github.com/openguild-labs/substrate-kitties). |
 | #4 | Light clients & Sidecar | Build any applications using the Polkadot light Clients ([smoldot](https://github.com/smol-dot/smoldot) for Rust, [subtrate-connect](https://github.com/paritytech/substrate-connect) for Typescript) and [Substrate Sidecar API](https://github.com/paritytech/substrate-api-sidecar) |
 | #5 | Developer tools & libraries for Substrate | Build developer tools and libraries that support the Substrate development. Reference: [openguild-labs/polkadot-rs](https://github.com/openguild-labs/polkadot-rs), [paritytech/asset-transfer-api](https://github.com/paritytech/asset-transfer-api) | 
+| #6 | Build a NFT application using Unique Network SDK | [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html) | 
+| #7 | Build a smart contract application powered by [PHALA Phat Contract](https://phala.network/phat-contract) | [Awesome PHALA contracts](https://github.com/Phala-Network/awesome-phat-contracts?tab=readme-ov-file) |
 
 ## Submission Guidelines
 
