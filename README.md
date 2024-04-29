@@ -18,6 +18,7 @@
 Provide the details of theme and the main goal of this hackathon
 
 ## How to win this hackathon? 
+- [x] If you develop an application, use [Talisman SIWS](https://github.com/TalismanSociety/siws) or [Talisman Connect](https://github.com/TalismanSociety/talisman-connect)
 - [x] Submit the project to the hackathon following a right format.
 
 Read more at [Hackathon Guidebook](https://github.com/openguild-labs/hackathon-guidebook)
