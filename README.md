@@ -11,7 +11,7 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 | Field name | Description | Field value |
 | ------------- | ------ | ------------- |
 | Title | Official name of the hackathon | Mini OpenHack First Edition 🌱 |
-| 💰 Total Bounty | How much you can earn from this hackathon? | 1000$ |
+| 💰 Total Bounty | How much you can earn from this hackathon? | 1500 💲 |
 | Organizer | Name of the organizer | OpenGuild Labs |
 
 ## 📅 Important Dates
