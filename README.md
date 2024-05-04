@@ -43,6 +43,8 @@ Provide the overall agenda of the hackathon here
 
 ## Tracks
 
+Diving deeper into each track by reading this documentation [Track Deep Dive 📓](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive)
+
 | Track Number | Track Name | Description | Bounty |
 | ------------- | ------ | ------ | ---- |
 | #1 | Develop a new Substrate runtime modules ([Pallets](https://docs.substrate.io/reference/frame-pallets/) or [ORML](https://github.com/open-web3-stack/open-runtime-module-library)) | Write a new module that help to diversify the ecosystem of Substrate pallets. Reference: [pallet-evm](https://github.com/chainx-org/chainx-technical-archive/blob/main/WangYaFei/evm/pallet-evm:An%20implementation%20of%20evm%20in%20substrate.md), [pallet-broker](https://crates.io/crates/pallet-broker), [pallet-nft](https://github.com/danforbes/pallet-nft) | 150$ |
