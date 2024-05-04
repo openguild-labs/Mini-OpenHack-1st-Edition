@@ -6,19 +6,17 @@ By joinning the hackathon you will push the boundaries of blockchain technology 
 
 Plus, this is your chance to **level up your skills**, from **mastering** advanced **blockchain concepts** to **building a portfolio-worthy project** that will impress the community. Gain valuable experience with Polkadot's core tech and potentially even become a recognized expert by contributing to the official documentation.
 
----
-
 ## Table of contents
 
-1. General Information
-2. Important Dates
-3. Who can participate?
-4. Registration Guideline
-5. Development Guideline
-6. Master Timeline
-7. Tracks
-8. Submission Guidelines
-9. Resources
+1. [General Information](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
+2. [Important Dates](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
+3. [Who can participate?](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
+4. [Registration Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
+5. [Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#5-how-to-win-this-hackathon)
+6. [Master Timeline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#5-how-to-win-this-hackathon)
+7. [Tracks](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#7-tracks)
+8. [Submission Guidelines](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#8-submission-guidelines)
+9. [Resources](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#8-submission-guidelines)
 
 ## 1. General Information
 👀 Before diving deeper into the details of the hackathon, it is required to join our [Discord channel](https://discord.gg/azSef6cs) to receive announcements and participate in activities during the hackathon
