@@ -7,13 +7,13 @@ By joinning the hackathon you will push the boundaries of blockchain technology 
 Plus, this is your chance to **level up your skills**, from **mastering** advanced **blockchain concepts** to **building a portfolio-worthy project** that will impress the community. Gain valuable experience with Polkadot's core tech and potentially even become a recognized expert by contributing to the official documentation.
 
 ## Hackathon General Information
+👀 Before diving deeper into the details of the hackathon, it is required to join our [Discord channel](https://discord.gg/azSef6cs) to receive announcements and participate in activities during the hackathon
 <!-- Replace `---` with the hackathon information -->
 | Field name | Description | Field value |
 | ------------- | ------ | ------------- |
 | Title | Official name of the hackathon | Mini OpenHack First Edition 🌱 |
 | 💰 Total Bounty | How much you can earn from this hackathon? | 1500 💲 |
 | Payment method | How to receive the bounty? | Bounty will be sent as a USDT to your Polkadot wallet address |
-| Organizer | Name of the organizer | OpenGuild Labs |
 
 ## 📅 Important Dates
 - Registration Duration: `📅 6/5/2024 - 📅 13/5/2024`
@@ -27,19 +27,10 @@ This hackathon is open to all developers, students, and blockchain enthusiasts! 
 
 ## How to register for the hackathon?
 
-[Mini OpenHack Wiki - Registration Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%93-Registration-Guideline)
+[📒 Mini OpenHack Wiki - Registration Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%93-Registration-Guideline)
 
 ## How to win this hackathon? 
-- [x] If you develop an application, use [Talisman SIWS](https://github.com/TalismanSociety/siws) or [Talisman Connect](https://github.com/TalismanSociety/talisman-connect)
-- [x] Submit the project to the hackathon following a right format.
-
-Read more at [Hackathon Guidebook](https://github.com/openguild-labs/hackathon-guidebook)
-- [x] Write a good `README.md` file for your project description.
-
-Read more at [Hackathon Project Submission Template](https://github.com/openguild-labs/hackathon-guidebook?tab=readme-ov-file#project-submission-template)
-- [x] Understand tracks & identify your strength
-- [x] Quality code and user-friendly interface
-- [x] Identify the solution for the right problems
+[📕 Mini OpenHack Wiki - Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%9A%A7-Development-Guideline)
 
 ## Agenda
 
