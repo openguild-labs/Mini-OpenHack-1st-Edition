@@ -26,6 +26,8 @@ This hackathon is open to all developers, students, and blockchain enthusiasts! 
 
 ## How to register for the hackathon?
 
+[Mini OpenHack Wiki - Registration Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%93-Registration-Guideline)
+
 ## How to win this hackathon? 
 - [x] If you develop an application, use [Talisman SIWS](https://github.com/TalismanSociety/siws) or [Talisman Connect](https://github.com/TalismanSociety/talisman-connect)
 - [x] Submit the project to the hackathon following a right format.
