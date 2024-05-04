@@ -1,19 +1,18 @@
-Repositoriy is made by the **OpenGuild Labs** to for covering the information related to the hackathon and storing the record of the hackathon participant. Mini OpenHack is a series of monthly hackathons hosted by the OpenGuild Labs for finding the hidden gem project team in the Polkadot ecosystem. 
+## Mini OpenHack 1st Edition 🦄
 
-## General Information
+Welcome to **OpenGuild’s Monthly hackathon** and become a **Polkadot Innovator**! 
+
+By joinning the hackathon you will push the boundaries of blockchain technology by crafting innovative solutions for real-world problems.
+
+Plus, this is your chance to **level up your skills**, from **mastering** advanced **blockchain concepts** to **building a portfolio-worthy project** that will impress the community. Gain valuable experience with Polkadot's core tech and potentially even become a recognized expert by contributing to the official documentation.
+
+## Hackathon General Information
 <!-- Replace `---` with the hackathon information -->
 | Field name | Description | Field value |
 | ------------- | ------ | ------------- |
-| Title | Official name of the hackathon | Mini Hackathon #1 |
+| Title | Official name of the hackathon | Mini OpenHack First Edition 🌱 |
 | 💰 Total Bounty | How much you can earn from this hackathon? | 1000$ |
 | Organizer | Name of the organizer | OpenGuild Labs |
-| Partners | Are there any external partners? | N/A |
-| Number of tracks | List of hacking tracks | --- |
-| Description | Brief summary of the hackathon purpose | --- |
-| Start date | When the hackathon begins | --- |
-| End date | When the hackathon ends | --- |
-| Type | `Ideathon` / `Project-based` | Project-based |
-| Participants | Number of expected participants | --- |
 
 ## Learn more about OpenGuild
 
@@ -22,17 +21,17 @@ Repositoriy is made by the **OpenGuild Labs** to for covering the information re
 - **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
 - **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
 
-## 📅 Dates
-- Launch Event: N/A
-- Challenges go live: N/A
-- Register by: You are welcome to join our hackathon any time before the end (qualified submissions will be accepted even without registration)
+## 📅 Important Dates
+- Registration Duration: `📅 6/5/2024 - 📅 13/5/2024`
+- Challenges go live: `📅 14/5/2024 - 📅 29/5/2024`
+- Register by: Guideline Below ⬇️
 - Duration: 2 weeks
-- End: Sunday N/A 2024
-- Prize distribution period: up to one weeks after Finale and Prizegiving
 
-## Description
+## Who can participate?
 
-Provide the details of theme and the main goal of this hackathon
+This hackathon is open to all developers, students, and blockchain enthusiasts! Whether you're a seasoned Polkadot developer or just starting your journey, we encourage you to join and learn. You can join as an `individual` or as a `team` (no limit of team members). Join our [Discord](https://discord.gg/azSef6cs) and visit `#introduction-and-networking` channel to connect with other hackathon participants. 
+
+## How to register for the hackathon?
 
 - Step 1: Install Git & Github Desktop (optional) on your local device
 - Step 2: Fork this repository by click the `Fork button` on Github
@@ -58,7 +57,7 @@ git clone https://github.com/chungquantin/open-hack-rust-starter.git
 Go to **Participant Registration** section and register to be the workshop participants. Add the below to the list, replace any placeholder with your personal information.
 
 ```
-| 🦀    | Your Name | Your Github username | Your current occupation |
+| 🦀    | Team Name or Individual Name | Team Members (Ex: memberA, memberB, memberC...) | Project idea or team overview |
 ```
 
 - Step 5: `Commit` your code and push to the forked Github repository
