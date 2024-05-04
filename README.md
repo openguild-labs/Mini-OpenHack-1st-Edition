@@ -8,15 +8,15 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 
 ## Table of contents
 
-1. [General Information](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
-2. [Important Dates](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
-3. [Who can participate?](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
-4. [Registration Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#1-general-information)
-5. [Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#5-how-to-win-this-hackathon)
-6. [Master Timeline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#5-how-to-win-this-hackathon)
-7. [Tracks](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#7-tracks)
-8. [Submission Guidelines](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#8-submission-guidelines)
-9. [Resources](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/blob/main/README.md#8-submission-guidelines)
+1. [General Information](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#1-general-information)
+2. [Important Dates](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#2--important-dates)
+3. [Who can participate?](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#3-who-can-participate)
+4. [Registration Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#4-how-to-register-for-the-hackathon)
+5. [Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#5-how-to-win-this-hackathon)
+6. [Master Timeline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#6-master-timeline)
+7. [Tracks](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#7-tracks)
+8. [Submission Guidelines](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#8-submission-guidelines)
+9. [Resources](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#9-resources)
 
 ## 1. General Information
 👀 Before diving deeper into the details of the hackathon, it is required to join our [Discord channel](https://discord.gg/azSef6cs) to receive announcements and participate in activities during the hackathon
