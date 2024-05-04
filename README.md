@@ -34,6 +34,44 @@ Repositoriy is made by the **OpenGuild Labs** to for covering the information re
 
 Provide the details of theme and the main goal of this hackathon
 
+- Step 1: Install Git & Github Desktop (optional) on your local device
+- Step 2: Fork this repository by click the `Fork button` on Github
+
+![image](https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/7fa2f01a-b523-4208-92db-d8af7a274d98)
+
+<img width="683" alt="Screenshot 2024-04-19 at 16 20 00" src="https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/138d1d07-5c0f-4fc3-b73d-8eafae3c692d">
+
+- Step 3: `Clone` the forked repository to your local device using the below command
+
+```
+git clone https://github.com/[name-of-your-account]/open-hack-rust-starter.git
+```
+
+Replace the `[name-of-your-account]` with your Github username. For example, if my username is `chungquantin`, I would do the below command to clone the repository to my local device.
+
+```
+git clone https://github.com/chungquantin/open-hack-rust-starter.git
+```
+
+- Step 4: Edit the `README.md` file to register for official participation
+
+Go to **Participant Registration** section and register to be the workshop participants. Add the below to the list, replace any placeholder with your personal information.
+
+```
+| 🦀    | Your Name | Your Github username | Your current occupation |
+```
+
+- Step 5: `Commit` your code and push to the forked Github repository
+
+```
+git add .
+git commit -m "Register for OpenHack workshop"
+```
+
+- Step 6: Create a `Pull Request` to merge your changes to this repository and name your PR as `Your name | Register for OpenHack workshop`
+
+<img width="1166" alt="Screenshot 2024-04-19 at 16 23 45" src="https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/7554ca7d-da68-4a23-893a-4f2c11a78d37">
+
 ## How to win this hackathon? 
 - [x] If you develop an application, use [Talisman SIWS](https://github.com/TalismanSociety/siws) or [Talisman Connect](https://github.com/TalismanSociety/talisman-connect)
 - [x] Submit the project to the hackathon following a right format.
