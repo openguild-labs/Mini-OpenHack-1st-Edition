@@ -6,7 +6,21 @@ By joinning the hackathon you will push the boundaries of blockchain technology 
 
 Plus, this is your chance to **level up your skills**, from **mastering** advanced **blockchain concepts** to **building a portfolio-worthy project** that will impress the community. Gain valuable experience with Polkadot's core tech and potentially even become a recognized expert by contributing to the official documentation.
 
-## Hackathon General Information
+---
+
+## Table of contents
+
+1. General Information
+2. Important Dates
+3. Who can participate?
+4. Registration Guideline
+5. Development Guideline
+6. Master Timeline
+7. Tracks
+8. Submission Guidelines
+9. Resources
+
+## 1. General Information
 👀 Before diving deeper into the details of the hackathon, it is required to join our [Discord channel](https://discord.gg/azSef6cs) to receive announcements and participate in activities during the hackathon
 <!-- Replace `---` with the hackathon information -->
 | Field name | Description | Field value |
@@ -15,24 +29,24 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 | 💰 Total Bounty | How much you can earn from this hackathon? | 1500 💲 |
 | Payment method | How to receive the bounty? | Bounty will be sent as a USDT to your Polkadot wallet address |
 
-## 📅 Important Dates
+## 2. 📅 Important Dates
 - Registration Duration: `📅 6/5/2024 - 📅 13/5/2024`
 - Challenges go live: `📅 14/5/2024 - 📅 29/5/2024`
 - Register by: Guideline Below ⬇️
 - Duration: 2 weeks
 
-## Who can participate?
+## 3. Who can participate?
 
 This hackathon is open to all developers, students, and blockchain enthusiasts! Whether you're a seasoned Polkadot developer or just starting your journey, we encourage you to join and learn. You can join as an `individual` or as a `team` (no limit of team members). Join our [Discord](https://discord.gg/azSef6cs) and visit `#introduction-and-networking` channel to connect with other hackathon participants. 
 
-## How to register for the hackathon?
+## 4. How to register for the hackathon?
 
 [📒 Mini OpenHack Wiki - Registration Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%93-Registration-Guideline)
 
-## How to win this hackathon? 
+## 5. How to win this hackathon? 
 [📕 Mini OpenHack Wiki - Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%9A%A7-Development-Guideline)
 
-## Master Timeline
+## 6. Master Timeline
 
 Provide the overall agenda of the hackathon here
 
@@ -49,7 +63,7 @@ Provide the overall agenda of the hackathon here
 | 📅 29/5/2024 | 🌙 11:59 PM | Stop accepting submission | N/A | N/A |
 | 🏆 6/6/2024 | ☀️  10:00 AM | Winner Announcement | N/A | Online on Discord |
 
-## Tracks
+## 7. Tracks
 
 Diving deeper into each track by reading this documentation [Track Deep Dive 📓](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive)
 
@@ -62,11 +76,11 @@ Diving deeper into each track by reading this documentation [Track Deep Dive �
 | #5 | Build a NFT application using Unique Network SDK | [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html) | 200$ |
 | #6 | Build a smart contract application powered by [PHALA Phat Contract](https://phala.network/phat-contract) | [Awesome PHALA contracts](https://github.com/Phala-Network/awesome-phat-contracts?tab=readme-ov-file) | 200$ |
 
-## Submission Guidelines
+## 8. Submission Guidelines
 
 [📗 Mini OpenHack Wiki - Submission Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%94-Submission-Guideline)
 
-## Resources
+## 9. Resources
 Finding [📚 Resources](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%9A-Resources) to build projects using Polkadot technology
 
 ## Learn more about OpenGuild
