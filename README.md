@@ -32,14 +32,22 @@ This hackathon is open to all developers, students, and blockchain enthusiasts! 
 ## How to win this hackathon? 
 [📕 Mini OpenHack Wiki - Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%9A%A7-Development-Guideline)
 
-## Agenda
+## Master Timeline
 
 Provide the overall agenda of the hackathon here
 
-| Date | Duration | Session Name | Organizer | Type ( online / offline ) |
-| ------------- | ------ | ------ | ------------- | ------------- |
-| --- | --- | ------ | --- | ------------- |
-| --- | --- | ------ | --- | ------------- |
+| Date | ⏰ Time | Session Name | Personal In Charge (PIC) | Type ( online / offline ) |
+|----|-----|-------|------|-----|
+| 🟢 6/5/2024 |  ☀️ 00:00 AM | 🏁 Registration is Open | N/A | N/A |
+| 🔴 13/5/2024 | 🌙 11:59 PM | Registration is Closed | N/A | N/A |
+| 📅 14/5/2024 | 🌙 7:00 PM | `Workshop`: Kickstart Mini OpenHack First Edition | Tin Chung from OpenGuild | Online on Discord |
+| 🟢 14/5/2024 | ☀️  00:00 AM | Hackathon Begins | N/A | N/A |
+| 💻 17/5/2024 | 🌙 7:00 PM | `Q&A`: Hackathon Developer Support Session | Elders from OpenGuild | Online on Discord |
+| 📅 18/5/2024 | 🌙 7:00 PM | `Workshop`: Walk through [📕 Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%9A%A7-Development-Guideline) & [Track Deep Dive 📓](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive)  | N/A | Online on Discord |
+| 🔴 29/5/2024 | 🌙 11:59 PM | Hackathon Ends | N/A | N/A |
+| 💻 25/5/2024 | 🌙 7:00 PM | `Q&A`: Hackathon Developer Support Session | Elders from OpenGuild | Online on Discord |
+| 📅 29/5/2024 | 🌙 11:59 PM | Stop accepting submission | N/A | N/A |
+| 🏆 6/6/2024 | ☀️  10:00 AM | Winner Announcement | N/A | Online on Discord |
 
 ## Tracks
 
@@ -56,10 +64,10 @@ Diving deeper into each track by reading this documentation [Track Deep Dive �
 
 ## Submission Guidelines
 
-How to submit your project to the hackathon?
+[📗 Mini OpenHack Wiki - Submission Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%94-Submission-Guideline)
 
 ## Resources
-List out any resources needed for the hackathon participants
+Finding [📚 Resources](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%9A-Resources) to build projects using Polkadot technology
 
 ## Learn more about OpenGuild
 
