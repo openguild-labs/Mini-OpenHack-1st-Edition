@@ -14,13 +14,6 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 | 💰 Total Bounty | How much you can earn from this hackathon? | 1000$ |
 | Organizer | Name of the organizer | OpenGuild Labs |
 
-## Learn more about OpenGuild
-
-- **About us:** [Learn more about us](https://openguild.wtf/about)
-- **Website:** [OpenGuild Website](https://openguild.wtf/)
-- **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
-- **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
-
 ## 📅 Important Dates
 - Registration Duration: `📅 6/5/2024 - 📅 13/5/2024`
 - Challenges go live: `📅 14/5/2024 - 📅 29/5/2024`
@@ -71,3 +64,10 @@ How to submit your project to the hackathon?
 
 ## Resources
 List out any resources needed for the hackathon participants
+
+## Learn more about OpenGuild
+
+- **About us:** [Learn more about us](https://openguild.wtf/about)
+- **Website:** [OpenGuild Website](https://openguild.wtf/)
+- **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
+- **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
