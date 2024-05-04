@@ -12,6 +12,7 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 | ------------- | ------ | ------------- |
 | Title | Official name of the hackathon | Mini OpenHack First Edition 🌱 |
 | 💰 Total Bounty | How much you can earn from this hackathon? | 1500 💲 |
+| Payment method | How to receive the bounty? | Bounty will be sent as a USDT to your Polkadot wallet address |
 | Organizer | Name of the organizer | OpenGuild Labs |
 
 ## 📅 Important Dates
