@@ -29,6 +29,12 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 | 💰 Total Bounty | How much you can earn from this hackathon? | 1500 💲 |
 | Payment method | How to receive the bounty? | Bounty will be sent as a USDT to your Polkadot wallet address |
 
+### Participant Benefits
+- Earn bounty by building up your innovative idea
+- Learn and polish your Polkadot development skills
+- Mentored by experts in the Polkadot ecosystem
+- Gain extra `XP` as an [OpenGuild Community Member](https://handbook.openguild.wtf/general-information/membership)
+
 ## 2. 📅 Important Dates
 - Registration Duration: `📅 6/5/2024 - 📅 13/5/2024`
 - Challenges go live: `📅 14/5/2024 - 📅 29/5/2024`
