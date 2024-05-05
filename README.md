@@ -20,7 +20,7 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 8. [Submission Guidelines](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#8-submission-guidelines)
 9. [Resources](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#9-resources)
 
-## Participant Registration
+## Participant Registration ([Register Now 🔥](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%93%93-Registration-Guideline))
 
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
