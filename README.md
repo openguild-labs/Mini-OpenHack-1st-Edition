@@ -67,12 +67,12 @@ Diving deeper into each track by reading this documentation [Track Deep Dive ðŸ“
 
 | Track Number | Track Name | Description | Bounty |
 | ------------- | ------ | ------ | ---- |
-| #1 | Develop a new Substrate runtime modules ([Pallets](https://docs.substrate.io/reference/frame-pallets/) or [ORML](https://github.com/open-web3-stack/open-runtime-module-library)) | Write a new module that help to diversify the ecosystem of Substrate pallets. Reference: [pallet-evm](https://github.com/chainx-org/chainx-technical-archive/blob/main/WangYaFei/evm/pallet-evm:An%20implementation%20of%20evm%20in%20substrate.md), [pallet-broker](https://crates.io/crates/pallet-broker), [pallet-nft](https://github.com/danforbes/pallet-nft) | 150$ |
-| #2 | Write a new interactive tutorial for Polkadot development. | Educational content that helps other people to learn about the Polkadot technology. Learn more from [Rust State Machine](https://github.com/shawntabrizi/rust-state-machine), [Substrate Kitties](https://github.com/openguild-labs/substrate-kitties). | 100$ |
-| #3 | Light clients & Sidecar | Build any applications using the Polkadot light Clients ([smoldot](https://github.com/smol-dot/smoldot) for Rust, [subtrate-connect](https://github.com/paritytech/substrate-connect) for Typescript) and [Substrate Sidecar API](https://github.com/paritytech/substrate-api-sidecar) | 150$ |
-| #4 | Developer tools & libraries for Substrate | Build developer tools and libraries that support the Substrate development. Reference: [openguild-labs/polkadot-rs](https://github.com/openguild-labs/polkadot-rs), [paritytech/asset-transfer-api](https://github.com/paritytech/asset-transfer-api) | 200$ |
+| #1 | Develop a new Substrate runtime modules | Write a new module that help to diversify the ecosystem of Substrate runtime modules and FRAME system.| 150$ |
+| #2 | Write a new interactive tutorial for Polkadot development. | Educational project that helps other people to learn about the Polkadot technology.| 100$ |
+| #3 | Build an App chain using Tanssi Network | Tanssi Network is a permissionless appchain infrastructure protocol designed for swift and effortless deployment of application-specific blockchains. | 150$ |
+| #4 | Developer tools & libraries for Substrate | Build developer tools and libraries that support the Substrate development.| 200$ |
 | #5 | Build a NFT application using Unique Network SDK | [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html) | 200$ |
-| #6 | Build a smart contract application powered by [PHALA Phat Contract](https://phala.network/phat-contract) | [Awesome PHALA contracts](https://github.com/Phala-Network/awesome-phat-contracts?tab=readme-ov-file) | 200$ |
+| #6 | Build a smart contract application powered by PHALA Phat Contract | [Awesome PHALA contracts](https://github.com/Phala-Network/awesome-phat-contracts?tab=readme-ov-file) | 200$ |
 
 ## 8. Submission Guidelines
 
