@@ -69,12 +69,12 @@ Diving deeper into each track by reading this documentation [Track Deep Dive ðŸ“
 
 | Track Number | Track Name | Description | Bounty |
 | ------------- | ------ | ------ | ---- |
-| #1 | Develop a new Substrate runtime modules | Write a new module that help to diversify the ecosystem of Substrate runtime modules and FRAME system.| 150$ |
-| #2 | Write a new interactive tutorial for Polkadot development. | Educational project that helps other people to learn about the Polkadot technology.| 100$ |
-| #3 | Build an App chain using Tanssi Network | Tanssi Network is a permissionless appchain infrastructure protocol designed for swift and effortless deployment of application-specific blockchains. | 150$ |
-| #4 | Developer tools & libraries for Substrate | Build developer tools and libraries that support the Substrate development.| 200$ |
-| #5 | Build a NFT application using Unique Network SDK | [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html) | 200$ |
-| #6 | Build a smart contract application powered by PHALA Phat Contract | [Awesome PHALA contracts](https://github.com/Phala-Network/awesome-phat-contracts?tab=readme-ov-file) | 200$ |
+| #1 | [Develop a new Substrate runtime modules](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive#-develop-a-new-substrate-runtime-modules) | Write a new module that help to diversify the ecosystem of Substrate runtime modules and FRAME system.| 150$ |
+| #2 | [Write a new interactive tutorial for Polkadot development.](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive#-write-a-new-interactive-tutorial-for-polkadot-development) | Educational project that helps other people to learn about the Polkadot technology.| 100$ |
+| #3 | [Build an App chain using Tanssi Network](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive#-build-an-app-chain-on-tanssi-network) | Tanssi Network is a permissionless appchain infrastructure protocol designed for swift and effortless deployment of application-specific blockchains. | 150$ |
+| #4 | [Developer tools & libraries for Substrate](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive#-developer-tools--libraries-for-substrate) | Build developer tools and libraries that support the Substrate development.| 200$ |
+| #5 | [Build a NFT application using Unique Network SDK](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive#-build-a-nft-application-using-unique-network-sdk) | [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html) | 200$ |
+| #6 | [Build a smart contract application powered by PHALA Phat Contract](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive#-build-an-application-powered-by-phala-network) | [Awesome PHALA contracts](https://github.com/Phala-Network/awesome-phat-contracts?tab=readme-ov-file) | 200$ |
 
 ## 8. Submission Guidelines
 
