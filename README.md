@@ -20,6 +20,18 @@ Plus, this is your chance to **level up your skills**, from **mastering** advanc
 8. [Submission Guidelines](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#8-submission-guidelines)
 9. [Resources](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition?tab=readme-ov-file#9-resources)
 
+## Participant Registration
+
+Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
+
+| Emoji    | Team Name | Team Member Name | Project idea or team overview | Discord Handle | Team Size |
+| ----- | --------------- | ----------------------------------------------------- | ------------------------ | ---- | ---- |
+| 🏆    | OpenGuild  | [chungquantin](https://github.com/chungquantin)     | Web 3.0 builder community focuses on Polkadot in Southeast Asia (SEA) region | chasechung | 1 |
+| ---    | ---  | ---    | --- | --- | --- |
+
+
+⬆️ Submit your registration by adding team information to the table above.
+
 ## 1. General Information
 👀 Before diving deeper into the details of the hackathon, it is required to join our [Discord channel](https://discord.gg/azSef6cs) to receive announcements and participate in activities during the hackathon
 <!-- Replace `---` with the hackathon information -->
