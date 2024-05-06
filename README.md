@@ -1,6 +1,7 @@
 ## Mini OpenHack 1st Edition 🦄
 
-![image](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/assets/56880684/e5e5cbfc-5f40-4b03-8985-702c2f1d1dc8)
+![image](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/assets/56880684/136ff0a7-b21d-43ca-89ee-193849c05823)
+
 
 Welcome to **OpenGuild’s Monthly hackathon** and become a **Polkadot Innovator**! 
 
