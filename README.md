@@ -28,6 +28,7 @@ Add your information to the below list to officially participate in the workshop
 | ----- | ----------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------- |
 | 🏆 | OpenGuild | [chungquantin](https://github.com/chungquantin) | Web 3.0 builder community focuses on Polkadot in Southeast Asia (SEA) region | chasechung | 1 |
 | 👨‍💻    | SoulBoundChampion | [phamhuynhanh](https://github.com/FucktheKingcode) | Build a unique NFT minting platform supporting communities, allowing community managers to update roles and distribute tokens through NFTs. | phamhuynhanhcn20a | 1         |
+| 👨‍💻 | Mint Duck| [minhduc19990221](https://github.com/minhduc19990221)| A devtool that narrows the gap between software and blockchain development | mintduck_.| 1 |
 | ---   | ---               | ---                                                | ---                                                                                                                                         | ---               | ---       |
 
 ⬆️ Submit your registration by adding team information to the table above.
