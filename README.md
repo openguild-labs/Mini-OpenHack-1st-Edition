@@ -31,7 +31,7 @@ Add your information to the below list to officially participate in the workshop
 | 👨‍💻 | Mint Duck| [minhduc19990221](https://github.com/minhduc19990221)| A devtool that narrows the gap between software and blockchain development | mintduck_.| 1 |
 | 🔥 | The Cosmic Blocks| [Daniel Bui](http://github.com/danielbui12)|  Connecto: The social platform that uses NFTs to bridge the gap between KOLs, Web3 projects, and fans for enhanced digital engagement | danielbui12 | 3 |
 | 🔥 | The Cosmic Blocks| [phamanhtan](http://github.com/phamanhtan)| | phamanhtan | 3 |
-| 🔥 | The Cosmic Blocks| [Noz Hoang](https://github.com/noz-hoang)| | rekmsolid | 3 |
+| 🔥 | The Cosmic Blocks| [Noz Hoang](https://github.com/noz-hoang)| | nozhoang | 3 |
 | ---   | ---               | ---                                                | ---                                                                                                                                         | ---               | ---       |
 
 ⬆️ Submit your registration by adding team information to the table above.
