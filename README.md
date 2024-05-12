@@ -32,7 +32,8 @@ Add your information to the below list to officially participate in the workshop
 | 🔥 | The Cosmic Blocks| [Daniel Bui](http://github.com/danielbui12)|  Connecto: The social platform that uses NFTs to bridge the gap between KOLs, Web3 projects, and fans for enhanced digital engagement | danielbui12 | 3 |
 | 🔥 | The Cosmic Blocks| [phamanhtan](http://github.com/phamanhtan)| | phamanhtan | 3 |
 | 🔥 | The Cosmic Blocks| [Noz Hoang](https://github.com/noz-hoang)| | nozhoang | 3 |
-| ---   | ---               | ---                                                | ---                                                                                                                                         | ---               | ---       |
+| 🍾 | Spree | [khoa288](https://github.com/khoa288) | A web3 enthusiast | mkhoaa | 1 |
+| --- | --- | --- | --- | --- | --- |
 
 ⬆️ Submit your registration by adding team information to the table above.
 
