@@ -35,6 +35,7 @@ Add your information to the below list to officially participate in the workshop
 | 🍾 | Spree | [khoa288](https://github.com/khoa288) | A web3 enthusiast | mkhoaa | 1 |
 | 👨‍💻 | Cyber Wayne | [Cyberwayn3](https://github.com/Cyberwayn3) | Web 3 security researcher | wa7n3| 1 |
 | 👨‍💻 | Ctrl-C-Winner | Dam Nguyen | NFT music platform | tanhdam | 1 |
+| 🐱 | GreyBlock | [Husni](https://github.com/ical10) | AI Chatbot | 0xpasta | 1 |
 | --- | --- | --- | --- | --- | --- |
 
 ⬆️ Submit your registration by adding team information to the table above.
