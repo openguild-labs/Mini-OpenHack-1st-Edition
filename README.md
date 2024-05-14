@@ -36,6 +36,8 @@ Add your information to the below list to officially participate in the workshop
 | 👨‍💻 | Cyber Wayne | [Cyberwayn3](https://github.com/Cyberwayn3) | Web 3 security researcher | wa7n3| 1 |
 | 👨‍💻 | Ctrl-C-Winner | Dam Nguyen | NFT music platform | tanhdam | 1 |
 | 🐱 | GreyBlock | [Husni](https://github.com/ical10) | AI Chatbot | 0xpasta | 1 |
+| 👨‍💻 | RainVillage | [Harshkumar62367](https://github.com/Harshkumar62367) | Build AI agent with Phala Network | spectre_harsh07 | 2 |
+| 👨‍💻 | RainVillage | [nik379](https://github.com/nik379) | | iron1k | 2 |
 | --- | --- | --- | --- | --- | --- |
 
 ⬆️ Submit your registration by adding team information to the table above.
