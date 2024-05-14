@@ -39,6 +39,7 @@ Add your information to the below list to officially participate in the workshop
 | 🗿 | MS-AI | [Abin Saji](https://github.com/arice77) | Polkadot Interactive App| arice.whynot | 1 |
 | 👨‍💻 | RainVillage | [Harshkumar62367](https://github.com/Harshkumar62367) | Build AI agent with Phala Network | spectre_harsh07 | 2 |
 | 👨‍💻 | RainVillage | [nik379](https://github.com/nik379) | | iron1k | 2 |
+| 👨‍💻 | OnePiece    | [shogun](https://github.com/shogun-code) | AI for polkadot | .shashinka | 1 |
 | --- | --- | --- | --- | --- | --- |
 
 ⬆️ Submit your registration by adding team information to the table above.
