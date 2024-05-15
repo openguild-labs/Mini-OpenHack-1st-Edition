@@ -40,9 +40,9 @@ Add your information to the below list to officially participate in the workshop
 | 👨‍💻 | RainVillage | [Harshkumar62367](https://github.com/Harshkumar62367) | Build AI agent with Phala Network | spectre_harsh07 | 2 |
 | 👨‍💻 | RainVillage | [nik379](https://github.com/nik379) | | iron1k | 2 |
 | 👨‍💻 | OnePiece    | [shogun](https://github.com/shogun-code) | AI for polkadot | .shashinka | 1 |
-| 👨‍💻 | Nexm Labs    | [trongdth](https://github.com/trongdth) | AI for polkadot | trongdth | 1 |
-| 👨‍💻 | Nexm Labs    | [hoale58-vl](https://github.com/hoale58-vl) | AI for polkadot | violet_058 | 1 |
-| 👨‍💻 | Nexm Labs    | [hson91](https://github.com/hson91) | AI for polkadot | .shashinka | 1 |
+| 👨‍💻 | Nexm Labs    | [trongdth](https://github.com/trongdth) | UniqueNFTBot  | trongdth | 1 |
+| 👨‍💻 | Nexm Labs    | [hoale58-vl](https://github.com/hoale58-vl) | Ordinals Inscription Pallet | violet_058 | 1 |
+| 👨‍💻 | Nexm Labs    | [hson91](https://github.com/hson91) | Indexing Your Polkadot side-chain dApp with The Graph: A Step-by-Step Guide | hson91 | 1 |
 
 | --- | --- | --- | --- | --- | --- |
 
