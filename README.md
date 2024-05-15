@@ -34,7 +34,7 @@ Add your information to the below list to officially participate in the workshop
 | 🔥 | The Cosmic Blocks| [Noz Hoang](https://github.com/noz-hoang)| | nozhoang | 3 |
 | 🍾 | Spree | [khoa288](https://github.com/khoa288) | A web3 enthusiast | mkhoaa | 1 |
 | 👨‍💻 | Cyber Wayne | [Cyberwayn3](https://github.com/Cyberwayn3) | Web 3 security researcher | wa7n3| 1 |
-| 👨‍💻 | Ctrl-C-Winner | Dam Nguyen | NFT music platform | tanhdam | 1 |
+| 👨‍💻 | Ctrl-C-Winner | [Damnt055](https://github.com/DamNT055) | ... | tanhdam | 1 |
 | 🐱 | GreyBlock | [Husni](https://github.com/ical10) | AI Chatbot | 0xpasta | 1 |
 | 🗿 | MS-AI | [Abin Saji](https://github.com/arice77) | Polkadot Interactive App| arice.whynot | 1 |
 | 👨‍💻 | RainVillage | [Harshkumar62367](https://github.com/Harshkumar62367) | Build AI agent with Phala Network | spectre_harsh07 | 2 |
