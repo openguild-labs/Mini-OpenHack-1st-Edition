@@ -86,18 +86,17 @@ This hackathon is open to all developers, students, and blockchain enthusiasts! 
 
 Provide the overall agenda of the hackathon here
 
-| Date         | ⏰ Time     | Session Name                                                                                                                                                                                                                                                                                        | Personal In Charge (PIC) | Type ( online / offline ) |
-| ------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------- |
-| 🟢 6/5/2024  | ☀️ 00:00 AM | 🏁 Registration is Open                                                                                                                                                                                                                                                                             | N/A                      | N/A                       |
-| 🔴 13/5/2024 | 🌙 11:59 PM | Registration is Closed                                                                                                                                                                                                                                                                              | N/A                      | N/A                       |
-| 📅 14/5/2024 | 🌙 7:00 PM  | `Workshop`: Kickstart Mini OpenHack First Edition                                                                                                                                                                                                                                                   | Tin Chung from OpenGuild | Online on Discord         |
-| 🟢 14/5/2024 | ☀️ 00:00 AM | Hackathon Begins                                                                                                                                                                                                                                                                                    | N/A                      | N/A                       |
-| 📅 15/5/2024 | 🌙 7:00 PM  | `Workshop`: Walk through [📕 Development Guideline](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%9A%A7-Development-Guideline) & [Track Deep Dive 📓](https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive) | N/A                      | Online on Discord         |
-| 💻 17/5/2024 | 🌙 7:00 PM  | `Q&A`: Hackathon Developer Support Session                                                                                                                                                                                                                                                          | Elders from OpenGuild    | Online on Discord         |
-| 🔴 29/5/2024 | 🌙 11:59 PM | Hackathon Ends                                                                                                                                                                                                                                                                                      | N/A                      | N/A                       |
-| 💻 25/5/2024 | 🌙 7:00 PM  | `Q&A`: Hackathon Developer Support Session                                                                                                                                                                                                                                                          | Elders from OpenGuild    | Online on Discord         |
-| 📅 29/5/2024 | 🌙 11:59 PM | Stop accepting submission                                                                                                                                                                                                                                                                           | N/A                      | N/A                       |
-| 🏆 6/6/2024  | ☀️ 10:00 AM | Winner Announcement                                                                                                                                                                                                                                                                                 | N/A                      | Online on Discord         |
+| Date | ⏰ Time | Session Name | Personal In Charge (PIC) | Type ( online / offline ) |
+| --- | --- | --- | --- | --- |
+| 🟢 6/5/2024 | ☀️ 00:00 AM | 🏁 Registration is Open | N/A | N/A |
+| 🔴 18/5/2024 | 🌙 11:59 PM | Registration is Closed | N/A | N/A |
+| 📅 19/5/2024 | 🌙 7:00 PM | Workshop: Kickstart Mini OpenHack First Edition | Tin Chung from OpenGuild | Online on Discord |
+| 🟢 19/5/2024 | ☀️ 00:00 AM | Hackathon Begins | N/A | N/A |
+| 💻 23/5/2024 | 🌙 7:00 PM | Q&A: Hackathon Developer Support Session | Elders from OpenGuild | Online on Discord |
+| 📅 24/5/2024 | 🌙 7:00 PM | Workshop: Walk through https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%9A%A7-Development-Guideline & https://github.com/openguild-labs/Mini-OpenHack-1st-Edition/wiki/%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93-Track-Deep-Dive | N/A | Online on Discord |
+| 💻 31/5/2024 | 🌙 7:00 PM | Q&A: Hackathon Developer Support Session | Elders from OpenGuild | Online on Discord |
+| 📅 2/6/2024 | 🌙 11:59 PM | Stop accepting submission | N/A | N/A |
+| 🏆 12/6/2024 | ☀️ 10:00 AM | Winner Announcement | N/A | N/A |
 
 ## 7. Tracks
 
