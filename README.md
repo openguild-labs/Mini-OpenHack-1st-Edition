@@ -43,7 +43,6 @@ Add your information to the below list to officially participate in the workshop
 | 👨‍💻 | Nexm Labs    | [trongdth](https://github.com/trongdth) | UniqueNFTBot  | trongdth | 1 |
 | 👨‍💻 | Nexm Labs    | [hoale58-vl](https://github.com/hoale58-vl) | Ordinals Inscription Pallet | violet_058 | 1 |
 | 👨‍💻 | Nexm Labs    | [hson91](https://github.com/hson91) | Indexing Your Polkadot side-chain dApp with The Graph: A Step-by-Step Guide | hson91 | 1 |
-
 | --- | --- | --- | --- | --- | --- |
 
 ⬆️ Submit your registration by adding team information to the table above.
