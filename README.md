@@ -44,6 +44,9 @@ Add your information to the below list to officially participate in the workshop
 | 👨‍💻 | Nexm Labs    | [hoale58-vl](https://github.com/hoale58-vl) | [Ordinals Pallet](https://github.com/hoale58-vl/ordinals-pallet) | violet_058 | 1 |
 | 👨‍💻 | Nexm Labs    | [hson91](https://github.com/hson91) | Indexing Your Polkadot side-chain dApp with The Graph: A Step-by-Step Guide | hson91 | 1 |
 | 👨‍💻 | BlockCMD    | [zxstim](https://github.com/zxstim) | NFT based oss bounty platform | zxstim | 1 |
+| 🔥 | The Cosmic Blocks| [Daniel Bui](http://github.com/danielbui12)|  Bookadot allows you to seamlessly book accommodations and check out with cryptocurrency options. Guests can virtually tour hotels, select rooms, and receive booking confirmations as NFTs, reducing cancellation risks and driving new reservations. By storing loyalty program data on the blockchain and issuing NFTs, hotels can enhance guest engagement and create memorable loyalty experiences. | danielbui12 | 3 |
+| 🔥 | The Cosmic Blocks| [phamanhtan](http://github.com/phamanhtan)| | phamanhtan | 3 |
+| 🔥 | The Cosmic Blocks| [linhvt97](https://github.com/Linhtv97)| | linh085890 | 3 |
 | --- | --- | --- | --- | --- | --- |
 
 ⬆️ Submit your registration by adding team information to the table above.
